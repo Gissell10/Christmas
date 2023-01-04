@@ -12,9 +12,11 @@ This is a simple fronted layout that I used to develope my CSS skills there are 
 
 ## CSS, javaScript, html
 
-# Deployment
+# URL
 
-deploy 
+https://gissell10.github.io/Christmas/
+
+
 
 
 
